@@ -26,9 +26,8 @@ def eliminar_facebook(cola):
     return nueva_cola
 
 
-# ---------------------------
 # b) Mostrar notificaciones de Twitter con "Python" sin perder datos
-# ---------------------------
+
 def mostrar_twitter_python(cola):
     aux = deque()
     
@@ -45,9 +44,9 @@ def mostrar_twitter_python(cola):
         cola.append(aux.popleft())
 
 
-# ---------------------------
+
 # c) Usar pila para notificaciones entre 11:43 y 15:57
-# ---------------------------
+
 def contar_notificaciones_rango(cola):
     pila = []
     aux = deque()
@@ -70,10 +69,8 @@ def contar_notificaciones_rango(cola):
     print("Cantidad en rango:", len(pila))
     return pila
 
-
-# ---------------------------
 # PRUEBAS INDEPENDIENTES
-# ---------------------------
+
 
 # Prueba a)
 cola_a = crear_cola_original()
@@ -110,9 +107,9 @@ cola = deque([
 ])
 
 
-# ----------------------------------
+
 # a) Nombre del personaje de Capitana Marvel
-# ----------------------------------
+
 def personaje_capitana_marvel(cola):
     aux = deque()
     resultado = None
@@ -129,9 +126,9 @@ def personaje_capitana_marvel(cola):
     return resultado
 
 
-# ----------------------------------
+#
 # b) Superhéroes femeninos
-# ----------------------------------
+
 def superheroes_femeninos(cola):
     aux = deque()
 
@@ -147,9 +144,8 @@ def superheroes_femeninos(cola):
     cola.extend(aux)
 
 
-# ----------------------------------
 # c) Personajes masculinos
-# ----------------------------------
+
 def personajes_masculinos(cola):
     aux = deque()
 
@@ -164,10 +160,8 @@ def personajes_masculinos(cola):
 
     cola.extend(aux)
 
-
-# ----------------------------------
 # d) Superhéroe de Scott Lang
-# ----------------------------------
+
 def superheroe_scott_lang(cola):
     aux = deque()
     resultado = None
@@ -183,10 +177,8 @@ def superheroe_scott_lang(cola):
     cola.extend(aux)
     return resultado
 
-
-# ----------------------------------
 # e) Datos cuyos nombres comienzan con S
-# ----------------------------------
+
 def nombres_con_s(cola):
     aux = deque()
 
@@ -201,10 +193,8 @@ def nombres_con_s(cola):
 
     cola.extend(aux)
 
-
-# ----------------------------------
 # f) Buscar Carol Danvers
-# ----------------------------------
+
 def buscar_carol(cola):
     aux = deque()
     encontrado = False
@@ -224,9 +214,8 @@ def buscar_carol(cola):
         print("No se encontró a Carol Danvers")
 
 
-# ----------------------------------
 # PRUEBAS
-# ----------------------------------
+
 
 print("a) Personaje de Capitana Marvel:", personaje_capitana_marvel(cola))
 
