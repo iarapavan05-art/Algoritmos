@@ -1,0 +1,302 @@
+[
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "Darth Vader",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "Yoda",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "Boba Fett",
+    "episodios_compartidos": 2
+  },
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "C-3PO",
+    "episodios_compartidos": 6
+  },
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "Leia",
+    "episodios_compartidos": 6
+  },
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "Rey",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "Kylo Ren",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "Chewbacca",
+    "episodios_compartidos": 6
+  },
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "Han Solo",
+    "episodios_compartidos": 5
+  },
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "R2-D2",
+    "episodios_compartidos": 6
+  },
+  {
+    "personaje1": "Luke Skywalker",
+    "personaje2": "BB-8",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Darth Vader",
+    "personaje2": "Yoda",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Darth Vader",
+    "personaje2": "Boba Fett",
+    "episodios_compartidos": 2
+  },
+  {
+    "personaje1": "Darth Vader",
+    "personaje2": "C-3PO",
+    "episodios_compartidos": 4
+  },
+  {
+    "personaje1": "Darth Vader",
+    "personaje2": "Leia",
+    "episodios_compartidos": 4
+  },
+  {
+    "personaje1": "Darth Vader",
+    "personaje2": "Chewbacca",
+    "episodios_compartidos": 4
+  },
+  {
+    "personaje1": "Darth Vader",
+    "personaje2": "Han Solo",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Darth Vader",
+    "personaje2": "R2-D2",
+    "episodios_compartidos": 4
+  },
+  {
+    "personaje1": "Yoda",
+    "personaje2": "Boba Fett",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Yoda",
+    "personaje2": "C-3PO",
+    "episodios_compartidos": 6
+  },
+  {
+    "personaje1": "Yoda",
+    "personaje2": "Leia",
+    "episodios_compartidos": 4
+  },
+  {
+    "personaje1": "Yoda",
+    "personaje2": "Rey",
+    "episodios_compartidos": 1
+  },
+  {
+    "personaje1": "Yoda",
+    "personaje2": "Kylo Ren",
+    "episodios_compartidos": 1
+  },
+  {
+    "personaje1": "Yoda",
+    "personaje2": "Chewbacca",
+    "episodios_compartidos": 4
+  },
+  {
+    "personaje1": "Yoda",
+    "personaje2": "Han Solo",
+    "episodios_compartidos": 2
+  },
+  {
+    "personaje1": "Yoda",
+    "personaje2": "R2-D2",
+    "episodios_compartidos": 6
+  },
+  {
+    "personaje1": "Yoda",
+    "personaje2": "BB-8",
+    "episodios_compartidos": 1
+  },
+  {
+    "personaje1": "Boba Fett",
+    "personaje2": "C-3PO",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Boba Fett",
+    "personaje2": "Leia",
+    "episodios_compartidos": 2
+  },
+  {
+    "personaje1": "Boba Fett",
+    "personaje2": "Chewbacca",
+    "episodios_compartidos": 2
+  },
+  {
+    "personaje1": "Boba Fett",
+    "personaje2": "Han Solo",
+    "episodios_compartidos": 2
+  },
+  {
+    "personaje1": "Boba Fett",
+    "personaje2": "R2-D2",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "C-3PO",
+    "personaje2": "Leia",
+    "episodios_compartidos": 7
+  },
+  {
+    "personaje1": "C-3PO",
+    "personaje2": "Rey",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "C-3PO",
+    "personaje2": "Kylo Ren",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "C-3PO",
+    "personaje2": "Chewbacca",
+    "episodios_compartidos": 7
+  },
+  {
+    "personaje1": "C-3PO",
+    "personaje2": "Han Solo",
+    "episodios_compartidos": 5
+  },
+  {
+    "personaje1": "C-3PO",
+    "personaje2": "R2-D2",
+    "episodios_compartidos": 9
+  },
+  {
+    "personaje1": "C-3PO",
+    "personaje2": "BB-8",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Leia",
+    "personaje2": "Rey",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Leia",
+    "personaje2": "Kylo Ren",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Leia",
+    "personaje2": "Chewbacca",
+    "episodios_compartidos": 7
+  },
+  {
+    "personaje1": "Leia",
+    "personaje2": "Han Solo",
+    "episodios_compartidos": 5
+  },
+  {
+    "personaje1": "Leia",
+    "personaje2": "R2-D2",
+    "episodios_compartidos": 7
+  },
+  {
+    "personaje1": "Leia",
+    "personaje2": "BB-8",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Rey",
+    "personaje2": "Kylo Ren",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Rey",
+    "personaje2": "Chewbacca",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Rey",
+    "personaje2": "Han Solo",
+    "episodios_compartidos": 2
+  },
+  {
+    "personaje1": "Rey",
+    "personaje2": "R2-D2",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Rey",
+    "personaje2": "BB-8",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Kylo Ren",
+    "personaje2": "Chewbacca",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Kylo Ren",
+    "personaje2": "Han Solo",
+    "episodios_compartidos": 2
+  },
+  {
+    "personaje1": "Kylo Ren",
+    "personaje2": "R2-D2",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Kylo Ren",
+    "personaje2": "BB-8",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Chewbacca",
+    "personaje2": "Han Solo",
+    "episodios_compartidos": 5
+  },
+  {
+    "personaje1": "Chewbacca",
+    "personaje2": "R2-D2",
+    "episodios_compartidos": 7
+  },
+  {
+    "personaje1": "Chewbacca",
+    "personaje2": "BB-8",
+    "episodios_compartidos": 3
+  },
+  {
+    "personaje1": "Han Solo",
+    "personaje2": "R2-D2",
+    "episodios_compartidos": 5
+  },
+  {
+    "personaje1": "Han Solo",
+    "personaje2": "BB-8",
+    "episodios_compartidos": 2
+  },
+  {
+    "personaje1": "R2-D2",
+    "personaje2": "BB-8",
+    "episodios_compartidos": 3
+  }
+]
